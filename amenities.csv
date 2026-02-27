@@ -1,0 +1,15 @@
+﻿AmenityID,AmenityName,AmenityCategory,ActiveFlag
+1,Full Fitness Center Access,Athletic,1
+2,Indoor Pool Access,Athletic,1
+3,Racquet / Court Access,Athletic,1
+4,Locker Room Access,Athletic,1
+5,Spa / Sauna Access,Athletic,1
+6,Main Dining Room Access,Dining,1
+7,Bar & Lounge Access,Dining,1
+8,Private Event Access,Social,1
+9,Member Networking Events,Social,1
+10,Overnight Guest Rooms,Facility,1
+11,Valet & Parking Access,Facility,1
+12,Meeting Room Reservations,Facility,1
+13,Reciprocal Club Privileges,Facility,1
+14,Golf Simulator,Athletic,1

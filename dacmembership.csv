@@ -1,0 +1,7 @@
+﻿MembershipID,MembershipTypeID,MembershipDescription,MembershipCategory,MonthlyDuesAmount,MonthlyMinimumSpend,InitiationFee,AgeMin,AgeMax,RequiresSponsorFlag,ActiveFlag,Capacity,EstimatedWaitMonths
+1,6,Young Professional Membership (Under 30),Age-Based,275.00,150.00,2500.00,21,29,1,1,300,NULL
+2,6,Intermediate Membership (30–39),Age-Based,375.00,200.00,3000.00,30,39,1,1,250,24
+3,6,Resident Individual Membership,Resident,525.00,300.00,3500.00,NULL,NULL,1,1,800,NULL
+4,6,Resident Family Membership,Resident,650.00,400.00,5000.00,NULL,NULL,1,1,800,NULL
+5,6,Corporate Membership,Corporate,900.00,500.00,7500.00,NULL,NULL,1,1,100,NULL
+6,6,Non-Resident Membership,Non-Resident,350.00,150.00,3000.00,NULL,NULL,1,1,200,NULL
