@@ -1,6 +1,6 @@
 Overview
 
-This project is an end-to-end SQL Server mini data mart designed to model club membership, amenity usage, entitlements, and profitability. It demonstrates dimensional modeling concepts including transactional and aggregate fact tables, normalized dimensions, and a bridge table to support many-to-many relationships between membership tiers and amenities.
+This project is an end-to-end SQL Server mini data mart designed to model club membership, amenity usage, entitlements, and profitability. It demonstrates dimensional modeling concepts including transactional and aggregate fact tables, dimension tables, and a bridge table to support many-to-many relationships between membership tiers and amenities.
 
 The solution includes:
 
