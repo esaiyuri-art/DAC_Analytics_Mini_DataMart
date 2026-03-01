@@ -1,0 +1,7 @@
+﻿YearNumber,MonthNumber,MonthStartDate,AmenityID,AmenityName,AmenityCategory,TotalUsageCount,UniqueMemberCount,TotalOperatingCost_Est,OperatingCostPerUse_Est
+2025,10,2025-10-01,10,Overnight Guest Rooms,Facility,7,7,280.00,40.0000000000
+2025,11,2025-11-01,10,Overnight Guest Rooms,Facility,7,7,280.00,40.0000000000
+2025,12,2025-12-01,10,Overnight Guest Rooms,Facility,7,7,280.00,40.0000000000
+2026,1,2026-01-01,10,Overnight Guest Rooms,Facility,9,7,360.00,40.0000000000
+2026,2,2026-02-01,10,Overnight Guest Rooms,Facility,9,7,360.00,40.0000000000
+2026,3,2026-03-01,10,Overnight Guest Rooms,Facility,6,6,240.00,40.0000000000

@@ -1,0 +1,15 @@
+﻿AmenityID,AmenityName,AmenityCategory,AmenityActiveFlag,CostActiveFlag,InitialBuildCost,MonthlyFixedCost,CostPerUse,UsefulLifeYears,InDuesIND,MemberCostPerUse
+1,Full Fitness Center Access,Athletic,1,1,250000.00,8000.00,3.00,10,1,0.00
+2,Indoor Pool Access,Athletic,1,1,400000.00,12000.00,8.00,15,1,0.00
+3,Racquet / Court Access,Athletic,1,1,150000.00,5000.00,4.00,12,1,0.00
+4,Locker Room Access,Athletic,1,1,200000.00,7000.00,2.00,15,1,0.00
+5,Spa / Sauna Access,Athletic,1,1,120000.00,4000.00,6.00,10,0,30.00
+6,Main Dining Room Access,Dining,1,1,300000.00,20000.00,15.00,15,0,60.00
+7,Bar & Lounge Access,Dining,1,1,150000.00,10000.00,8.00,12,0,35.00
+8,Private Event Access,Social,1,1,250000.00,12000.00,20.00,15,0,1500.00
+9,Member Networking Events,Social,1,1,50000.00,5000.00,10.00,8,0,50.00
+10,Overnight Guest Rooms,Facility,1,1,500000.00,30000.00,40.00,20,0,250.00
+11,Valet & Parking Access,Facility,1,1,100000.00,15000.00,5.00,10,0,12.00
+12,Meeting Room Reservations,Facility,1,1,200000.00,10000.00,12.00,15,0,200.00
+13,Reciprocal Club Privileges,Facility,1,1,20000.00,3000.00,2.00,5,0,75.00
+14,Golf Simulator,Athletic,1,1,50000.00,2000.00,10.00,7,0,50.00

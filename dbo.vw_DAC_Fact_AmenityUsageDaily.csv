@@ -1,0 +1,440 @@
+﻿UsageDay,Year,Month,MonthName,DayName,IsWeekend,AmenityID,AmenityName,AmenityCategory,UsageCount,UniqueMembers
+2025-10-01,2025,10,October,Wednesday,0,1,Full Fitness Center Access,Athletic,7,7
+2025-10-01,2025,10,October,Wednesday,0,5,Spa / Sauna Access,Athletic,2,2
+2025-10-01,2025,10,October,Wednesday,0,6,Main Dining Room Access,Dining,8,8
+2025-10-01,2025,10,October,Wednesday,0,8,Private Event Access,Social,1,1
+2025-10-01,2025,10,October,Wednesday,0,9,Member Networking Events,Social,1,1
+2025-10-02,2025,10,October,Thursday,0,1,Full Fitness Center Access,Athletic,7,7
+2025-10-02,2025,10,October,Thursday,0,2,Indoor Pool Access,Athletic,2,2
+2025-10-02,2025,10,October,Thursday,0,6,Main Dining Room Access,Dining,6,6
+2025-10-02,2025,10,October,Thursday,0,7,Bar & Lounge Access,Dining,1,1
+2025-10-02,2025,10,October,Thursday,0,8,Private Event Access,Social,1,1
+2025-10-02,2025,10,October,Thursday,0,10,Overnight Guest Rooms,Facility,1,1
+2025-10-02,2025,10,October,Thursday,0,11,Valet & Parking Access,Facility,1,1
+2025-10-02,2025,10,October,Thursday,0,14,Golf Simulator,Athletic,2,2
+2025-10-03,2025,10,October,Friday,0,2,Indoor Pool Access,Athletic,5,5
+2025-10-03,2025,10,October,Friday,0,5,Spa / Sauna Access,Athletic,1,1
+2025-10-03,2025,10,October,Friday,0,6,Main Dining Room Access,Dining,4,4
+2025-10-03,2025,10,October,Friday,0,7,Bar & Lounge Access,Dining,7,7
+2025-10-03,2025,10,October,Friday,0,9,Member Networking Events,Social,1,1
+2025-10-03,2025,10,October,Friday,0,11,Valet & Parking Access,Facility,4,4
+2025-10-03,2025,10,October,Friday,0,14,Golf Simulator,Athletic,1,1
+2025-10-04,2025,10,October,Saturday,1,2,Indoor Pool Access,Athletic,7,7
+2025-10-04,2025,10,October,Saturday,1,3,Racquet / Court Access,Athletic,1,1
+2025-10-04,2025,10,October,Saturday,1,6,Main Dining Room Access,Dining,1,1
+2025-10-04,2025,10,October,Saturday,1,7,Bar & Lounge Access,Dining,6,6
+2025-10-04,2025,10,October,Saturday,1,9,Member Networking Events,Social,2,2
+2025-10-04,2025,10,October,Saturday,1,11,Valet & Parking Access,Facility,1,1
+2025-10-04,2025,10,October,Saturday,1,12,Meeting Room Reservations,Facility,1,1
+2025-10-04,2025,10,October,Saturday,1,13,Reciprocal Club Privileges,Facility,1,1
+2025-10-04,2025,10,October,Saturday,1,14,Golf Simulator,Athletic,5,5
+2025-10-05,2025,10,October,Sunday,1,3,Racquet / Court Access,Athletic,6,6
+2025-10-05,2025,10,October,Sunday,1,7,Bar & Lounge Access,Dining,4,4
+2025-10-05,2025,10,October,Sunday,1,8,Private Event Access,Social,7,7
+2025-10-05,2025,10,October,Sunday,1,11,Valet & Parking Access,Facility,1,1
+2025-10-05,2025,10,October,Sunday,1,13,Reciprocal Club Privileges,Facility,4,4
+2025-10-06,2025,10,October,Monday,0,3,Racquet / Court Access,Athletic,6,6
+2025-10-06,2025,10,October,Monday,0,4,Locker Room Access,Athletic,1,1
+2025-10-06,2025,10,October,Monday,0,8,Private Event Access,Social,7,7
+2025-10-06,2025,10,October,Monday,0,10,Overnight Guest Rooms,Facility,1,1
+2025-10-06,2025,10,October,Monday,0,11,Valet & Parking Access,Facility,2,2
+2025-10-06,2025,10,October,Monday,0,13,Reciprocal Club Privileges,Facility,1,1
+2025-10-06,2025,10,October,Monday,0,14,Golf Simulator,Athletic,1,1
+2025-10-07,2025,10,October,Tuesday,0,3,Racquet / Court Access,Athletic,1,1
+2025-10-07,2025,10,October,Tuesday,0,4,Locker Room Access,Athletic,6,6
+2025-10-07,2025,10,October,Tuesday,0,8,Private Event Access,Social,2,2
+2025-10-07,2025,10,October,Tuesday,0,9,Member Networking Events,Social,6,6
+2025-10-07,2025,10,October,Tuesday,0,11,Valet & Parking Access,Facility,1,1
+2025-10-07,2025,10,October,Tuesday,0,12,Meeting Room Reservations,Facility,1,1
+2025-10-07,2025,10,October,Tuesday,0,14,Golf Simulator,Athletic,5,5
+2025-10-08,2025,10,October,Wednesday,0,4,Locker Room Access,Athletic,6,6
+2025-10-08,2025,10,October,Wednesday,0,5,Spa / Sauna Access,Athletic,1,1
+2025-10-08,2025,10,October,Wednesday,0,7,Bar & Lounge Access,Dining,1,1
+2025-10-08,2025,10,October,Wednesday,0,8,Private Event Access,Social,1,1
+2025-10-08,2025,10,October,Wednesday,0,9,Member Networking Events,Social,5,5
+2025-10-08,2025,10,October,Wednesday,0,13,Reciprocal Club Privileges,Facility,1,1
+2025-10-08,2025,10,October,Wednesday,0,14,Golf Simulator,Athletic,1,1
+2025-10-09,2025,10,October,Thursday,0,4,Locker Room Access,Athletic,1,1
+2025-10-09,2025,10,October,Thursday,0,5,Spa / Sauna Access,Athletic,5,5
+2025-10-09,2025,10,October,Thursday,0,9,Member Networking Events,Social,3,3
+2025-10-09,2025,10,October,Thursday,0,10,Overnight Guest Rooms,Facility,1,1
+2025-10-09,2025,10,October,Thursday,0,11,Valet & Parking Access,Facility,5,5
+2025-10-09,2025,10,October,Thursday,0,14,Golf Simulator,Athletic,1,1
+2025-10-10,2025,10,October,Friday,0,5,Spa / Sauna Access,Athletic,5,5
+2025-10-10,2025,10,October,Friday,0,9,Member Networking Events,Social,1,1
+2025-10-10,2025,10,October,Friday,0,10,Overnight Guest Rooms,Facility,4,4
+2025-10-10,2025,10,October,Friday,0,11,Valet & Parking Access,Facility,4,4
+2025-11-01,2025,11,November,Saturday,1,1,Full Fitness Center Access,Athletic,7,7
+2025-11-01,2025,11,November,Saturday,1,5,Spa / Sauna Access,Athletic,2,2
+2025-11-01,2025,11,November,Saturday,1,6,Main Dining Room Access,Dining,8,8
+2025-11-01,2025,11,November,Saturday,1,8,Private Event Access,Social,1,1
+2025-11-01,2025,11,November,Saturday,1,9,Member Networking Events,Social,1,1
+2025-11-02,2025,11,November,Sunday,1,1,Full Fitness Center Access,Athletic,7,7
+2025-11-02,2025,11,November,Sunday,1,2,Indoor Pool Access,Athletic,2,2
+2025-11-02,2025,11,November,Sunday,1,6,Main Dining Room Access,Dining,6,6
+2025-11-02,2025,11,November,Sunday,1,7,Bar & Lounge Access,Dining,1,1
+2025-11-02,2025,11,November,Sunday,1,8,Private Event Access,Social,1,1
+2025-11-02,2025,11,November,Sunday,1,10,Overnight Guest Rooms,Facility,1,1
+2025-11-02,2025,11,November,Sunday,1,11,Valet & Parking Access,Facility,1,1
+2025-11-02,2025,11,November,Sunday,1,14,Golf Simulator,Athletic,2,2
+2025-11-03,2025,11,November,Monday,0,2,Indoor Pool Access,Athletic,5,5
+2025-11-03,2025,11,November,Monday,0,5,Spa / Sauna Access,Athletic,1,1
+2025-11-03,2025,11,November,Monday,0,6,Main Dining Room Access,Dining,4,4
+2025-11-03,2025,11,November,Monday,0,7,Bar & Lounge Access,Dining,7,7
+2025-11-03,2025,11,November,Monday,0,9,Member Networking Events,Social,1,1
+2025-11-03,2025,11,November,Monday,0,11,Valet & Parking Access,Facility,4,4
+2025-11-03,2025,11,November,Monday,0,14,Golf Simulator,Athletic,1,1
+2025-11-04,2025,11,November,Tuesday,0,2,Indoor Pool Access,Athletic,7,7
+2025-11-04,2025,11,November,Tuesday,0,3,Racquet / Court Access,Athletic,1,1
+2025-11-04,2025,11,November,Tuesday,0,6,Main Dining Room Access,Dining,1,1
+2025-11-04,2025,11,November,Tuesday,0,7,Bar & Lounge Access,Dining,6,6
+2025-11-04,2025,11,November,Tuesday,0,9,Member Networking Events,Social,2,2
+2025-11-04,2025,11,November,Tuesday,0,11,Valet & Parking Access,Facility,1,1
+2025-11-04,2025,11,November,Tuesday,0,12,Meeting Room Reservations,Facility,1,1
+2025-11-04,2025,11,November,Tuesday,0,13,Reciprocal Club Privileges,Facility,1,1
+2025-11-04,2025,11,November,Tuesday,0,14,Golf Simulator,Athletic,5,5
+2025-11-05,2025,11,November,Wednesday,0,3,Racquet / Court Access,Athletic,6,6
+2025-11-05,2025,11,November,Wednesday,0,7,Bar & Lounge Access,Dining,4,4
+2025-11-05,2025,11,November,Wednesday,0,8,Private Event Access,Social,7,7
+2025-11-05,2025,11,November,Wednesday,0,11,Valet & Parking Access,Facility,1,1
+2025-11-05,2025,11,November,Wednesday,0,13,Reciprocal Club Privileges,Facility,4,4
+2025-11-06,2025,11,November,Thursday,0,3,Racquet / Court Access,Athletic,6,6
+2025-11-06,2025,11,November,Thursday,0,4,Locker Room Access,Athletic,1,1
+2025-11-06,2025,11,November,Thursday,0,8,Private Event Access,Social,7,7
+2025-11-06,2025,11,November,Thursday,0,10,Overnight Guest Rooms,Facility,1,1
+2025-11-06,2025,11,November,Thursday,0,11,Valet & Parking Access,Facility,2,2
+2025-11-06,2025,11,November,Thursday,0,13,Reciprocal Club Privileges,Facility,1,1
+2025-11-06,2025,11,November,Thursday,0,14,Golf Simulator,Athletic,1,1
+2025-11-07,2025,11,November,Friday,0,3,Racquet / Court Access,Athletic,1,1
+2025-11-07,2025,11,November,Friday,0,4,Locker Room Access,Athletic,6,6
+2025-11-07,2025,11,November,Friday,0,8,Private Event Access,Social,2,2
+2025-11-07,2025,11,November,Friday,0,9,Member Networking Events,Social,6,6
+2025-11-07,2025,11,November,Friday,0,11,Valet & Parking Access,Facility,1,1
+2025-11-07,2025,11,November,Friday,0,12,Meeting Room Reservations,Facility,1,1
+2025-11-07,2025,11,November,Friday,0,14,Golf Simulator,Athletic,5,5
+2025-11-08,2025,11,November,Saturday,1,4,Locker Room Access,Athletic,6,6
+2025-11-08,2025,11,November,Saturday,1,5,Spa / Sauna Access,Athletic,1,1
+2025-11-08,2025,11,November,Saturday,1,7,Bar & Lounge Access,Dining,1,1
+2025-11-08,2025,11,November,Saturday,1,8,Private Event Access,Social,1,1
+2025-11-08,2025,11,November,Saturday,1,9,Member Networking Events,Social,5,5
+2025-11-08,2025,11,November,Saturday,1,13,Reciprocal Club Privileges,Facility,1,1
+2025-11-08,2025,11,November,Saturday,1,14,Golf Simulator,Athletic,1,1
+2025-11-09,2025,11,November,Sunday,1,4,Locker Room Access,Athletic,1,1
+2025-11-09,2025,11,November,Sunday,1,5,Spa / Sauna Access,Athletic,5,5
+2025-11-09,2025,11,November,Sunday,1,9,Member Networking Events,Social,3,3
+2025-11-09,2025,11,November,Sunday,1,10,Overnight Guest Rooms,Facility,1,1
+2025-11-09,2025,11,November,Sunday,1,11,Valet & Parking Access,Facility,5,5
+2025-11-09,2025,11,November,Sunday,1,14,Golf Simulator,Athletic,1,1
+2025-11-10,2025,11,November,Monday,0,5,Spa / Sauna Access,Athletic,5,5
+2025-11-10,2025,11,November,Monday,0,9,Member Networking Events,Social,1,1
+2025-11-10,2025,11,November,Monday,0,10,Overnight Guest Rooms,Facility,4,4
+2025-11-10,2025,11,November,Monday,0,11,Valet & Parking Access,Facility,4,4
+2025-12-01,2025,12,December,Monday,0,1,Full Fitness Center Access,Athletic,7,7
+2025-12-01,2025,12,December,Monday,0,5,Spa / Sauna Access,Athletic,2,2
+2025-12-01,2025,12,December,Monday,0,6,Main Dining Room Access,Dining,8,8
+2025-12-01,2025,12,December,Monday,0,8,Private Event Access,Social,1,1
+2025-12-01,2025,12,December,Monday,0,9,Member Networking Events,Social,1,1
+2025-12-02,2025,12,December,Tuesday,0,1,Full Fitness Center Access,Athletic,7,7
+2025-12-02,2025,12,December,Tuesday,0,2,Indoor Pool Access,Athletic,2,2
+2025-12-02,2025,12,December,Tuesday,0,6,Main Dining Room Access,Dining,6,6
+2025-12-02,2025,12,December,Tuesday,0,7,Bar & Lounge Access,Dining,1,1
+2025-12-02,2025,12,December,Tuesday,0,8,Private Event Access,Social,1,1
+2025-12-02,2025,12,December,Tuesday,0,10,Overnight Guest Rooms,Facility,1,1
+2025-12-02,2025,12,December,Tuesday,0,11,Valet & Parking Access,Facility,1,1
+2025-12-02,2025,12,December,Tuesday,0,14,Golf Simulator,Athletic,2,2
+2025-12-03,2025,12,December,Wednesday,0,2,Indoor Pool Access,Athletic,5,5
+2025-12-03,2025,12,December,Wednesday,0,5,Spa / Sauna Access,Athletic,1,1
+2025-12-03,2025,12,December,Wednesday,0,6,Main Dining Room Access,Dining,4,4
+2025-12-03,2025,12,December,Wednesday,0,7,Bar & Lounge Access,Dining,7,7
+2025-12-03,2025,12,December,Wednesday,0,9,Member Networking Events,Social,1,1
+2025-12-03,2025,12,December,Wednesday,0,11,Valet & Parking Access,Facility,4,4
+2025-12-03,2025,12,December,Wednesday,0,14,Golf Simulator,Athletic,1,1
+2025-12-04,2025,12,December,Thursday,0,2,Indoor Pool Access,Athletic,7,7
+2025-12-04,2025,12,December,Thursday,0,3,Racquet / Court Access,Athletic,1,1
+2025-12-04,2025,12,December,Thursday,0,6,Main Dining Room Access,Dining,1,1
+2025-12-04,2025,12,December,Thursday,0,7,Bar & Lounge Access,Dining,6,6
+2025-12-04,2025,12,December,Thursday,0,9,Member Networking Events,Social,2,2
+2025-12-04,2025,12,December,Thursday,0,11,Valet & Parking Access,Facility,1,1
+2025-12-04,2025,12,December,Thursday,0,12,Meeting Room Reservations,Facility,1,1
+2025-12-04,2025,12,December,Thursday,0,13,Reciprocal Club Privileges,Facility,1,1
+2025-12-04,2025,12,December,Thursday,0,14,Golf Simulator,Athletic,5,5
+2025-12-05,2025,12,December,Friday,0,3,Racquet / Court Access,Athletic,6,6
+2025-12-05,2025,12,December,Friday,0,7,Bar & Lounge Access,Dining,4,4
+2025-12-05,2025,12,December,Friday,0,8,Private Event Access,Social,7,7
+2025-12-05,2025,12,December,Friday,0,11,Valet & Parking Access,Facility,1,1
+2025-12-05,2025,12,December,Friday,0,13,Reciprocal Club Privileges,Facility,4,4
+2025-12-06,2025,12,December,Saturday,1,3,Racquet / Court Access,Athletic,6,6
+2025-12-06,2025,12,December,Saturday,1,4,Locker Room Access,Athletic,1,1
+2025-12-06,2025,12,December,Saturday,1,8,Private Event Access,Social,7,7
+2025-12-06,2025,12,December,Saturday,1,10,Overnight Guest Rooms,Facility,1,1
+2025-12-06,2025,12,December,Saturday,1,11,Valet & Parking Access,Facility,2,2
+2025-12-06,2025,12,December,Saturday,1,13,Reciprocal Club Privileges,Facility,1,1
+2025-12-06,2025,12,December,Saturday,1,14,Golf Simulator,Athletic,1,1
+2025-12-07,2025,12,December,Sunday,1,3,Racquet / Court Access,Athletic,1,1
+2025-12-07,2025,12,December,Sunday,1,4,Locker Room Access,Athletic,6,6
+2025-12-07,2025,12,December,Sunday,1,8,Private Event Access,Social,2,2
+2025-12-07,2025,12,December,Sunday,1,9,Member Networking Events,Social,6,6
+2025-12-07,2025,12,December,Sunday,1,11,Valet & Parking Access,Facility,1,1
+2025-12-07,2025,12,December,Sunday,1,12,Meeting Room Reservations,Facility,1,1
+2025-12-07,2025,12,December,Sunday,1,14,Golf Simulator,Athletic,5,5
+2025-12-08,2025,12,December,Monday,0,4,Locker Room Access,Athletic,6,6
+2025-12-08,2025,12,December,Monday,0,5,Spa / Sauna Access,Athletic,1,1
+2025-12-08,2025,12,December,Monday,0,7,Bar & Lounge Access,Dining,1,1
+2025-12-08,2025,12,December,Monday,0,8,Private Event Access,Social,1,1
+2025-12-08,2025,12,December,Monday,0,9,Member Networking Events,Social,5,5
+2025-12-08,2025,12,December,Monday,0,13,Reciprocal Club Privileges,Facility,1,1
+2025-12-08,2025,12,December,Monday,0,14,Golf Simulator,Athletic,1,1
+2025-12-09,2025,12,December,Tuesday,0,4,Locker Room Access,Athletic,1,1
+2025-12-09,2025,12,December,Tuesday,0,5,Spa / Sauna Access,Athletic,5,5
+2025-12-09,2025,12,December,Tuesday,0,9,Member Networking Events,Social,3,3
+2025-12-09,2025,12,December,Tuesday,0,10,Overnight Guest Rooms,Facility,1,1
+2025-12-09,2025,12,December,Tuesday,0,11,Valet & Parking Access,Facility,5,5
+2025-12-09,2025,12,December,Tuesday,0,14,Golf Simulator,Athletic,1,1
+2025-12-10,2025,12,December,Wednesday,0,5,Spa / Sauna Access,Athletic,5,5
+2025-12-10,2025,12,December,Wednesday,0,9,Member Networking Events,Social,1,1
+2025-12-10,2025,12,December,Wednesday,0,10,Overnight Guest Rooms,Facility,4,4
+2025-12-10,2025,12,December,Wednesday,0,11,Valet & Parking Access,Facility,4,4
+2026-01-01,2026,1,January,Thursday,0,1,Full Fitness Center Access,Athletic,7,7
+2026-01-01,2026,1,January,Thursday,0,5,Spa / Sauna Access,Athletic,2,2
+2026-01-01,2026,1,January,Thursday,0,6,Main Dining Room Access,Dining,8,8
+2026-01-01,2026,1,January,Thursday,0,8,Private Event Access,Social,1,1
+2026-01-01,2026,1,January,Thursday,0,9,Member Networking Events,Social,1,1
+2026-01-02,2026,1,January,Friday,0,1,Full Fitness Center Access,Athletic,7,7
+2026-01-02,2026,1,January,Friday,0,2,Indoor Pool Access,Athletic,2,2
+2026-01-02,2026,1,January,Friday,0,6,Main Dining Room Access,Dining,6,6
+2026-01-02,2026,1,January,Friday,0,7,Bar & Lounge Access,Dining,1,1
+2026-01-02,2026,1,January,Friday,0,8,Private Event Access,Social,1,1
+2026-01-02,2026,1,January,Friday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-01-02,2026,1,January,Friday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-02,2026,1,January,Friday,0,14,Golf Simulator,Athletic,2,2
+2026-01-03,2026,1,January,Saturday,1,2,Indoor Pool Access,Athletic,5,5
+2026-01-03,2026,1,January,Saturday,1,5,Spa / Sauna Access,Athletic,1,1
+2026-01-03,2026,1,January,Saturday,1,6,Main Dining Room Access,Dining,4,4
+2026-01-03,2026,1,January,Saturday,1,7,Bar & Lounge Access,Dining,7,7
+2026-01-03,2026,1,January,Saturday,1,9,Member Networking Events,Social,1,1
+2026-01-03,2026,1,January,Saturday,1,11,Valet & Parking Access,Facility,4,4
+2026-01-03,2026,1,January,Saturday,1,14,Golf Simulator,Athletic,1,1
+2026-01-04,2026,1,January,Sunday,1,2,Indoor Pool Access,Athletic,7,7
+2026-01-04,2026,1,January,Sunday,1,3,Racquet / Court Access,Athletic,1,1
+2026-01-04,2026,1,January,Sunday,1,6,Main Dining Room Access,Dining,1,1
+2026-01-04,2026,1,January,Sunday,1,7,Bar & Lounge Access,Dining,6,6
+2026-01-04,2026,1,January,Sunday,1,9,Member Networking Events,Social,2,2
+2026-01-04,2026,1,January,Sunday,1,11,Valet & Parking Access,Facility,1,1
+2026-01-04,2026,1,January,Sunday,1,12,Meeting Room Reservations,Facility,1,1
+2026-01-04,2026,1,January,Sunday,1,13,Reciprocal Club Privileges,Facility,1,1
+2026-01-04,2026,1,January,Sunday,1,14,Golf Simulator,Athletic,5,5
+2026-01-05,2026,1,January,Monday,0,3,Racquet / Court Access,Athletic,6,6
+2026-01-05,2026,1,January,Monday,0,7,Bar & Lounge Access,Dining,4,4
+2026-01-05,2026,1,January,Monday,0,8,Private Event Access,Social,7,7
+2026-01-05,2026,1,January,Monday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-05,2026,1,January,Monday,0,13,Reciprocal Club Privileges,Facility,4,4
+2026-01-06,2026,1,January,Tuesday,0,3,Racquet / Court Access,Athletic,6,6
+2026-01-06,2026,1,January,Tuesday,0,4,Locker Room Access,Athletic,1,1
+2026-01-06,2026,1,January,Tuesday,0,8,Private Event Access,Social,7,7
+2026-01-06,2026,1,January,Tuesday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-01-06,2026,1,January,Tuesday,0,11,Valet & Parking Access,Facility,2,2
+2026-01-06,2026,1,January,Tuesday,0,13,Reciprocal Club Privileges,Facility,1,1
+2026-01-06,2026,1,January,Tuesday,0,14,Golf Simulator,Athletic,1,1
+2026-01-07,2026,1,January,Wednesday,0,3,Racquet / Court Access,Athletic,1,1
+2026-01-07,2026,1,January,Wednesday,0,4,Locker Room Access,Athletic,6,6
+2026-01-07,2026,1,January,Wednesday,0,8,Private Event Access,Social,2,2
+2026-01-07,2026,1,January,Wednesday,0,9,Member Networking Events,Social,6,6
+2026-01-07,2026,1,January,Wednesday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-07,2026,1,January,Wednesday,0,12,Meeting Room Reservations,Facility,1,1
+2026-01-07,2026,1,January,Wednesday,0,14,Golf Simulator,Athletic,5,5
+2026-01-08,2026,1,January,Thursday,0,4,Locker Room Access,Athletic,6,6
+2026-01-08,2026,1,January,Thursday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-01-08,2026,1,January,Thursday,0,7,Bar & Lounge Access,Dining,1,1
+2026-01-08,2026,1,January,Thursday,0,8,Private Event Access,Social,1,1
+2026-01-08,2026,1,January,Thursday,0,9,Member Networking Events,Social,5,5
+2026-01-08,2026,1,January,Thursday,0,13,Reciprocal Club Privileges,Facility,1,1
+2026-01-08,2026,1,January,Thursday,0,14,Golf Simulator,Athletic,1,1
+2026-01-09,2026,1,January,Friday,0,4,Locker Room Access,Athletic,1,1
+2026-01-09,2026,1,January,Friday,0,5,Spa / Sauna Access,Athletic,5,5
+2026-01-09,2026,1,January,Friday,0,9,Member Networking Events,Social,3,3
+2026-01-09,2026,1,January,Friday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-01-09,2026,1,January,Friday,0,11,Valet & Parking Access,Facility,5,5
+2026-01-09,2026,1,January,Friday,0,14,Golf Simulator,Athletic,1,1
+2026-01-10,2026,1,January,Saturday,1,5,Spa / Sauna Access,Athletic,5,5
+2026-01-10,2026,1,January,Saturday,1,6,Main Dining Room Access,Dining,1,1
+2026-01-10,2026,1,January,Saturday,1,9,Member Networking Events,Social,1,1
+2026-01-10,2026,1,January,Saturday,1,10,Overnight Guest Rooms,Facility,4,4
+2026-01-10,2026,1,January,Saturday,1,11,Valet & Parking Access,Facility,4,4
+2026-01-11,2026,1,January,Sunday,1,1,Full Fitness Center Access,Athletic,2,2
+2026-01-11,2026,1,January,Sunday,1,6,Main Dining Room Access,Dining,2,2
+2026-01-12,2026,1,January,Monday,0,1,Full Fitness Center Access,Athletic,3,3
+2026-01-12,2026,1,January,Monday,0,6,Main Dining Room Access,Dining,2,2
+2026-01-13,2026,1,January,Tuesday,0,1,Full Fitness Center Access,Athletic,5,5
+2026-01-14,2026,1,January,Wednesday,0,1,Full Fitness Center Access,Athletic,4,4
+2026-01-14,2026,1,January,Wednesday,0,7,Bar & Lounge Access,Dining,1,1
+2026-01-15,2026,1,January,Thursday,0,2,Indoor Pool Access,Athletic,2,2
+2026-01-15,2026,1,January,Thursday,0,7,Bar & Lounge Access,Dining,2,2
+2026-01-16,2026,1,January,Friday,0,2,Indoor Pool Access,Athletic,3,3
+2026-01-16,2026,1,January,Friday,0,7,Bar & Lounge Access,Dining,1,1
+2026-01-17,2026,1,January,Saturday,1,2,Indoor Pool Access,Athletic,3,3
+2026-01-17,2026,1,January,Saturday,1,7,Bar & Lounge Access,Dining,1,1
+2026-01-17,2026,1,January,Saturday,1,8,Private Event Access,Social,1,1
+2026-01-18,2026,1,January,Sunday,1,2,Indoor Pool Access,Athletic,3,3
+2026-01-18,2026,1,January,Sunday,1,8,Private Event Access,Social,1,1
+2026-01-19,2026,1,January,Monday,0,2,Indoor Pool Access,Athletic,3,3
+2026-01-19,2026,1,January,Monday,0,8,Private Event Access,Social,2,2
+2026-01-20,2026,1,January,Tuesday,0,3,Racquet / Court Access,Athletic,4,4
+2026-01-21,2026,1,January,Wednesday,0,3,Racquet / Court Access,Athletic,3,3
+2026-01-21,2026,1,January,Wednesday,0,8,Private Event Access,Social,1,1
+2026-01-21,2026,1,January,Wednesday,0,9,Member Networking Events,Social,1,1
+2026-01-22,2026,1,January,Thursday,0,3,Racquet / Court Access,Athletic,2,2
+2026-01-22,2026,1,January,Thursday,0,9,Member Networking Events,Social,2,2
+2026-01-23,2026,1,January,Friday,0,3,Racquet / Court Access,Athletic,2,2
+2026-01-23,2026,1,January,Friday,0,4,Locker Room Access,Athletic,1,1
+2026-01-23,2026,1,January,Friday,0,9,Member Networking Events,Social,1,1
+2026-01-24,2026,1,January,Saturday,1,3,Racquet / Court Access,Athletic,3,3
+2026-01-24,2026,1,January,Saturday,1,4,Locker Room Access,Athletic,1,1
+2026-01-25,2026,1,January,Sunday,1,4,Locker Room Access,Athletic,2,2
+2026-01-25,2026,1,January,Sunday,1,9,Member Networking Events,Social,1,1
+2026-01-25,2026,1,January,Sunday,1,10,Overnight Guest Rooms,Facility,1,1
+2026-01-26,2026,1,January,Monday,0,4,Locker Room Access,Athletic,3,3
+2026-01-26,2026,1,January,Monday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-01-27,2026,1,January,Tuesday,0,4,Locker Room Access,Athletic,2,2
+2026-01-27,2026,1,January,Tuesday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-01-27,2026,1,January,Tuesday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-28,2026,1,January,Wednesday,0,4,Locker Room Access,Athletic,2,2
+2026-01-28,2026,1,January,Wednesday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-01-28,2026,1,January,Wednesday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-29,2026,1,January,Thursday,0,4,Locker Room Access,Athletic,2,2
+2026-01-29,2026,1,January,Thursday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-01-29,2026,1,January,Thursday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-30,2026,1,January,Friday,0,4,Locker Room Access,Athletic,1,1
+2026-01-30,2026,1,January,Friday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-01-30,2026,1,January,Friday,0,11,Valet & Parking Access,Facility,1,1
+2026-01-31,2026,1,January,Saturday,1,5,Spa / Sauna Access,Athletic,1,1
+2026-01-31,2026,1,January,Saturday,1,6,Main Dining Room Access,Dining,1,1
+2026-02-01,2026,2,February,Sunday,1,1,Full Fitness Center Access,Athletic,7,7
+2026-02-01,2026,2,February,Sunday,1,5,Spa / Sauna Access,Athletic,2,2
+2026-02-01,2026,2,February,Sunday,1,6,Main Dining Room Access,Dining,8,8
+2026-02-01,2026,2,February,Sunday,1,8,Private Event Access,Social,1,1
+2026-02-01,2026,2,February,Sunday,1,9,Member Networking Events,Social,1,1
+2026-02-02,2026,2,February,Monday,0,1,Full Fitness Center Access,Athletic,7,7
+2026-02-02,2026,2,February,Monday,0,2,Indoor Pool Access,Athletic,2,2
+2026-02-02,2026,2,February,Monday,0,6,Main Dining Room Access,Dining,6,6
+2026-02-02,2026,2,February,Monday,0,7,Bar & Lounge Access,Dining,1,1
+2026-02-02,2026,2,February,Monday,0,8,Private Event Access,Social,1,1
+2026-02-02,2026,2,February,Monday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-02-02,2026,2,February,Monday,0,11,Valet & Parking Access,Facility,1,1
+2026-02-02,2026,2,February,Monday,0,14,Golf Simulator,Athletic,2,2
+2026-02-03,2026,2,February,Tuesday,0,2,Indoor Pool Access,Athletic,5,5
+2026-02-03,2026,2,February,Tuesday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-02-03,2026,2,February,Tuesday,0,6,Main Dining Room Access,Dining,4,4
+2026-02-03,2026,2,February,Tuesday,0,7,Bar & Lounge Access,Dining,7,7
+2026-02-03,2026,2,February,Tuesday,0,9,Member Networking Events,Social,1,1
+2026-02-03,2026,2,February,Tuesday,0,11,Valet & Parking Access,Facility,4,4
+2026-02-03,2026,2,February,Tuesday,0,14,Golf Simulator,Athletic,1,1
+2026-02-04,2026,2,February,Wednesday,0,2,Indoor Pool Access,Athletic,7,7
+2026-02-04,2026,2,February,Wednesday,0,3,Racquet / Court Access,Athletic,1,1
+2026-02-04,2026,2,February,Wednesday,0,6,Main Dining Room Access,Dining,1,1
+2026-02-04,2026,2,February,Wednesday,0,7,Bar & Lounge Access,Dining,6,6
+2026-02-04,2026,2,February,Wednesday,0,9,Member Networking Events,Social,2,2
+2026-02-04,2026,2,February,Wednesday,0,11,Valet & Parking Access,Facility,1,1
+2026-02-04,2026,2,February,Wednesday,0,12,Meeting Room Reservations,Facility,1,1
+2026-02-04,2026,2,February,Wednesday,0,13,Reciprocal Club Privileges,Facility,1,1
+2026-02-04,2026,2,February,Wednesday,0,14,Golf Simulator,Athletic,5,5
+2026-02-05,2026,2,February,Thursday,0,3,Racquet / Court Access,Athletic,6,6
+2026-02-05,2026,2,February,Thursday,0,7,Bar & Lounge Access,Dining,4,4
+2026-02-05,2026,2,February,Thursday,0,8,Private Event Access,Social,7,7
+2026-02-05,2026,2,February,Thursday,0,11,Valet & Parking Access,Facility,1,1
+2026-02-05,2026,2,February,Thursday,0,13,Reciprocal Club Privileges,Facility,4,4
+2026-02-06,2026,2,February,Friday,0,3,Racquet / Court Access,Athletic,6,6
+2026-02-06,2026,2,February,Friday,0,4,Locker Room Access,Athletic,1,1
+2026-02-06,2026,2,February,Friday,0,8,Private Event Access,Social,7,7
+2026-02-06,2026,2,February,Friday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-02-06,2026,2,February,Friday,0,11,Valet & Parking Access,Facility,2,2
+2026-02-06,2026,2,February,Friday,0,13,Reciprocal Club Privileges,Facility,1,1
+2026-02-06,2026,2,February,Friday,0,14,Golf Simulator,Athletic,1,1
+2026-02-07,2026,2,February,Saturday,1,3,Racquet / Court Access,Athletic,1,1
+2026-02-07,2026,2,February,Saturday,1,4,Locker Room Access,Athletic,6,6
+2026-02-07,2026,2,February,Saturday,1,8,Private Event Access,Social,2,2
+2026-02-07,2026,2,February,Saturday,1,9,Member Networking Events,Social,6,6
+2026-02-07,2026,2,February,Saturday,1,11,Valet & Parking Access,Facility,1,1
+2026-02-07,2026,2,February,Saturday,1,12,Meeting Room Reservations,Facility,1,1
+2026-02-07,2026,2,February,Saturday,1,14,Golf Simulator,Athletic,5,5
+2026-02-08,2026,2,February,Sunday,1,4,Locker Room Access,Athletic,6,6
+2026-02-08,2026,2,February,Sunday,1,5,Spa / Sauna Access,Athletic,1,1
+2026-02-08,2026,2,February,Sunday,1,7,Bar & Lounge Access,Dining,1,1
+2026-02-08,2026,2,February,Sunday,1,8,Private Event Access,Social,1,1
+2026-02-08,2026,2,February,Sunday,1,9,Member Networking Events,Social,5,5
+2026-02-08,2026,2,February,Sunday,1,13,Reciprocal Club Privileges,Facility,1,1
+2026-02-08,2026,2,February,Sunday,1,14,Golf Simulator,Athletic,1,1
+2026-02-09,2026,2,February,Monday,0,4,Locker Room Access,Athletic,1,1
+2026-02-09,2026,2,February,Monday,0,5,Spa / Sauna Access,Athletic,5,5
+2026-02-09,2026,2,February,Monday,0,9,Member Networking Events,Social,3,3
+2026-02-09,2026,2,February,Monday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-02-09,2026,2,February,Monday,0,11,Valet & Parking Access,Facility,5,5
+2026-02-09,2026,2,February,Monday,0,14,Golf Simulator,Athletic,1,1
+2026-02-10,2026,2,February,Tuesday,0,5,Spa / Sauna Access,Athletic,5,5
+2026-02-10,2026,2,February,Tuesday,0,6,Main Dining Room Access,Dining,1,1
+2026-02-10,2026,2,February,Tuesday,0,9,Member Networking Events,Social,1,1
+2026-02-10,2026,2,February,Tuesday,0,10,Overnight Guest Rooms,Facility,4,4
+2026-02-10,2026,2,February,Tuesday,0,11,Valet & Parking Access,Facility,4,4
+2026-02-11,2026,2,February,Wednesday,0,1,Full Fitness Center Access,Athletic,2,2
+2026-02-11,2026,2,February,Wednesday,0,6,Main Dining Room Access,Dining,2,2
+2026-02-12,2026,2,February,Thursday,0,1,Full Fitness Center Access,Athletic,3,3
+2026-02-12,2026,2,February,Thursday,0,6,Main Dining Room Access,Dining,2,2
+2026-02-13,2026,2,February,Friday,0,1,Full Fitness Center Access,Athletic,5,5
+2026-02-14,2026,2,February,Saturday,1,1,Full Fitness Center Access,Athletic,4,4
+2026-02-14,2026,2,February,Saturday,1,7,Bar & Lounge Access,Dining,1,1
+2026-02-15,2026,2,February,Sunday,1,2,Indoor Pool Access,Athletic,2,2
+2026-02-15,2026,2,February,Sunday,1,7,Bar & Lounge Access,Dining,2,2
+2026-02-16,2026,2,February,Monday,0,2,Indoor Pool Access,Athletic,3,3
+2026-02-16,2026,2,February,Monday,0,7,Bar & Lounge Access,Dining,1,1
+2026-02-17,2026,2,February,Tuesday,0,2,Indoor Pool Access,Athletic,3,3
+2026-02-17,2026,2,February,Tuesday,0,7,Bar & Lounge Access,Dining,1,1
+2026-02-17,2026,2,February,Tuesday,0,8,Private Event Access,Social,1,1
+2026-02-18,2026,2,February,Wednesday,0,2,Indoor Pool Access,Athletic,3,3
+2026-02-18,2026,2,February,Wednesday,0,8,Private Event Access,Social,1,1
+2026-02-19,2026,2,February,Thursday,0,2,Indoor Pool Access,Athletic,3,3
+2026-02-19,2026,2,February,Thursday,0,8,Private Event Access,Social,2,2
+2026-02-20,2026,2,February,Friday,0,3,Racquet / Court Access,Athletic,4,4
+2026-02-21,2026,2,February,Saturday,1,3,Racquet / Court Access,Athletic,3,3
+2026-02-21,2026,2,February,Saturday,1,8,Private Event Access,Social,1,1
+2026-02-21,2026,2,February,Saturday,1,9,Member Networking Events,Social,1,1
+2026-02-22,2026,2,February,Sunday,1,3,Racquet / Court Access,Athletic,2,2
+2026-02-22,2026,2,February,Sunday,1,9,Member Networking Events,Social,2,2
+2026-02-23,2026,2,February,Monday,0,3,Racquet / Court Access,Athletic,2,2
+2026-02-23,2026,2,February,Monday,0,4,Locker Room Access,Athletic,1,1
+2026-02-23,2026,2,February,Monday,0,9,Member Networking Events,Social,1,1
+2026-02-24,2026,2,February,Tuesday,0,3,Racquet / Court Access,Athletic,3,3
+2026-02-24,2026,2,February,Tuesday,0,4,Locker Room Access,Athletic,1,1
+2026-02-25,2026,2,February,Wednesday,0,4,Locker Room Access,Athletic,2,2
+2026-02-25,2026,2,February,Wednesday,0,9,Member Networking Events,Social,1,1
+2026-02-25,2026,2,February,Wednesday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-02-26,2026,2,February,Thursday,0,4,Locker Room Access,Athletic,3,3
+2026-02-26,2026,2,February,Thursday,0,5,Spa / Sauna Access,Athletic,1,1
+2026-02-27,2026,2,February,Friday,0,4,Locker Room Access,Athletic,2,2
+2026-02-27,2026,2,February,Friday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-02-27,2026,2,February,Friday,0,11,Valet & Parking Access,Facility,1,1
+2026-02-28,2026,2,February,Saturday,1,4,Locker Room Access,Athletic,3,3
+2026-02-28,2026,2,February,Saturday,1,5,Spa / Sauna Access,Athletic,1,1
+2026-02-28,2026,2,February,Saturday,1,11,Valet & Parking Access,Facility,2,2
+2026-03-01,2026,3,March,Sunday,1,1,Full Fitness Center Access,Athletic,14,14
+2026-03-01,2026,3,March,Sunday,1,4,Locker Room Access,Athletic,14,14
+2026-03-01,2026,3,March,Sunday,1,6,Main Dining Room Access,Dining,5,5
+2026-03-01,2026,3,March,Sunday,1,7,Bar & Lounge Access,Dining,14,14
+2026-03-01,2026,3,March,Sunday,1,9,Member Networking Events,Social,4,4
+2026-03-01,2026,3,March,Sunday,1,10,Overnight Guest Rooms,Facility,5,5
+2026-03-01,2026,3,March,Sunday,1,11,Valet & Parking Access,Facility,9,9
+2026-03-01,2026,3,March,Sunday,1,12,Meeting Room Reservations,Facility,1,1
+2026-03-01,2026,3,March,Sunday,1,14,Golf Simulator,Athletic,5,5
+2026-03-02,2026,3,March,Monday,0,2,Indoor Pool Access,Athletic,14,14
+2026-03-02,2026,3,March,Monday,0,5,Spa / Sauna Access,Athletic,14,14
+2026-03-02,2026,3,March,Monday,0,7,Bar & Lounge Access,Dining,5,5
+2026-03-02,2026,3,March,Monday,0,8,Private Event Access,Social,14,14
+2026-03-02,2026,3,March,Monday,0,10,Overnight Guest Rooms,Facility,1,1
+2026-03-02,2026,3,March,Monday,0,11,Valet & Parking Access,Facility,8,8
+2026-03-02,2026,3,March,Monday,0,13,Reciprocal Club Privileges,Facility,1,1
+2026-03-02,2026,3,March,Monday,0,14,Golf Simulator,Athletic,9,9
+2026-03-03,2026,3,March,Tuesday,0,3,Racquet / Court Access,Athletic,14,14
+2026-03-03,2026,3,March,Tuesday,0,6,Main Dining Room Access,Dining,14,14
+2026-03-03,2026,3,March,Tuesday,0,8,Private Event Access,Social,5,5
+2026-03-03,2026,3,March,Tuesday,0,9,Member Networking Events,Social,14,14
+2026-03-03,2026,3,March,Tuesday,0,11,Valet & Parking Access,Facility,1,1
+2026-03-03,2026,3,March,Tuesday,0,13,Reciprocal Club Privileges,Facility,5,5
+2026-03-03,2026,3,March,Tuesday,0,14,Golf Simulator,Athletic,1,1

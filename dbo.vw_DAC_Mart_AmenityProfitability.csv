@@ -1,0 +1,15 @@
+﻿AmenityID,AmenityName,AmenityCategory,InitialBuildCost,MonthlyFixedCost,CostPerUse,UsefulLifeYears,TotalUsageCount,TotalVariableCostFromUsage,TotalOperatingCost_Est,OperatingCostPerUse_Est,UsageStatus
+1,Full Fitness Center Access,Athletic,250000.00,8000.00,3.00,10,112,336.00,8336.00,74.4285714285,In Use
+2,Indoor Pool Access,Athletic,400000.00,12000.00,8.00,15,112,896.00,12896.00,115.1428571428,In Use
+3,Racquet / Court Access,Athletic,150000.00,5000.00,4.00,12,112,448.00,5448.00,48.6428571428,In Use
+4,Locker Room Access,Athletic,200000.00,7000.00,2.00,15,110,220.00,7220.00,65.6363636363,In Use
+5,Spa / Sauna Access,Athletic,120000.00,4000.00,6.00,10,91,546.00,4546.00,49.9560439560,In Use
+6,Main Dining Room Access,Dining,300000.00,20000.00,15.00,15,125,1875.00,21875.00,175.0000000000,In Use
+7,Bar & Lounge Access,Dining,150000.00,10000.00,8.00,12,124,992.00,10992.00,88.6451612903,In Use
+8,Private Event Access,Social,250000.00,12000.00,20.00,15,124,2480.00,14480.00,116.7741935483,In Use
+9,Member Networking Events,Social,50000.00,5000.00,10.00,8,123,1230.00,6230.00,50.6504065040,In Use
+10,Overnight Guest Rooms,Facility,500000.00,30000.00,40.00,20,45,1800.00,31800.00,706.6666666666,In Use
+11,Valet & Parking Access,Facility,100000.00,15000.00,5.00,10,120,600.00,15600.00,130.0000000000,In Use
+12,Meeting Room Reservations,Facility,200000.00,10000.00,12.00,15,11,132.00,10132.00,921.0909090909,In Use
+13,Reciprocal Club Privileges,Facility,20000.00,3000.00,2.00,5,41,82.00,3082.00,75.1707317073,In Use
+14,Golf Simulator,Athletic,50000.00,2000.00,10.00,7,95,950.00,2950.00,31.0526315789,In Use
